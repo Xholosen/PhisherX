@@ -14,7 +14,7 @@ Download:
 
 4 apt install python
 
-5 git clone https://github.com/Xholosen/PhisherX
+5 git clone https://github.com/Xholosen/PhisherX.git
 
 6 cd PhisherX
 
