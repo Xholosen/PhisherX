@@ -18,5 +18,6 @@ Download:
 
 6 cd PhisherX
 
-7 ./PhisherX
+7 ./phisherx.sh
+
 
