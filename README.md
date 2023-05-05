@@ -7,9 +7,16 @@ PhisherX is phishing tool.Works on termux.Give 30+ template for phishing attack.
 
 Download:
 1 pkg upgrade -y
+
 2 pkg install git 
+
 3 pkg install php
+
 4 apt install python
+
 5 git clone https://github.com/Xholosen/PhisherX
+
 6 cd PhisherX
+
 7 ./PhisherX
+
