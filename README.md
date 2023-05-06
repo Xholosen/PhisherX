@@ -33,3 +33,8 @@ After open the termux and write:
 
 If a hack or phishing incident occurs with this tool , I am not reponsible.
 
+Donate:
+
+ETherium (eth) : 0x35dcb6b3bf45986c86f610b5b1f51be8063ff094
+
+Tether (Usdt) : 3PB1FPpTEm5yMp4gLqCixqccZKEWcTvoLm
